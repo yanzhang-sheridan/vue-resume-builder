@@ -1,0 +1,93 @@
+{
+  "head":{
+    "name":"Yan Zhang",
+    "intention":"Full Stack Developer",
+    "tel":"4168371343",
+    "email":"lyanzha.g0429@gmail.com",
+    "address":"1300 Braeside Dr, Oakville, ON L6J 2A4",
+    "school":"Sheridan College",
+    "graduation":"Postgraduate Certificate",
+    "graduationTime":"2019-9-1 to 2020-4-20",
+    "major":"Interactive Multimedia Management",
+    "honor":"GPA 3.7",
+    "interest":"Tarvel, Cooking, Coding",
+    "speciality":"js.vue.css.html.php",
+    "specialityPer":"60.50.60,80,90"
+
+  },
+  "blogLink":{
+    "github":"https://github.com/yanzhang-sheridan",
+    "Portfolio":"linkedin.com/in/yanzhang0429"
+  },
+  "workExperience":{
+    "Company":"Innovation Times Ltd",
+    "experience":[
+      {
+        "name":"Web Developer",
+        "skill":"wordpress+vue+scss+codeidnitor",
+        "time":"2019-11 to present",
+        "describe":[
+          "Built website for Nofin Sports"
+        ]
+      },
+      {
+        "name":"Web Developer",
+        "skill":"vue.js+vue-route+nodeJs",
+        "time":"",
+        "describe":[
+          "Built website "
+        ]
+      }
+    ]
+  },
+  "projectExperience":{
+    "time":"",
+    "experience":[
+      {
+        "name":"Chefridge",
+        "skill":"php, html, css, javascript",
+        "time":"2019.11",
+        "describe":[
+          "nutrition cooking app",
+          "link: https://github.com/yanzhang-sheridan/Chefridge"
+        ]
+      },
+      {
+        "name":"Bootstrap wedding website",
+        "skill":"jQquery+Bootstrap+html",
+        "time":"2020.2",
+        "describe":[
+          "css framwork"
+        ]
+      }
+    ]
+  },
+  "skill":[
+    {
+      "type":"Building tools",
+      "describe":[
+        "webpack"
+      ]
+    },
+    {
+      "type":"Frameworks",
+      "describe":[
+        " jQuery,Vue, jQuery Mobile, Bootstrap",
+        "Codeignitor"
+      ]
+    },
+    {
+      "type":"-",
+      "describe":[
+        "js,php, sql",
+        "css,scss",
+        "html5"        
+      ]
+    }
+  ],
+  "selfAssessment":[
+    "   Faster Learner"
+   
+  ]
+
+}
